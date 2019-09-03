@@ -24,7 +24,7 @@ In this project, I have buildt my extended the version of Sanke game provided by
     * In snake.cpp the code uses OOP concept of data encapsulatoin 
     * In main.cpp concept of concurrecy is used by allowing only one instance of game to be played at a time 
     * In method ChangeDirection in controller.h and method UpdateBody in snake.h concepts of passing data by reference have been used 
-    * The
+    * The class Renderer in renderer.cpp has a destructr defined
 ## Dependencies for Running Locally
 * cmake >= 3.7
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
